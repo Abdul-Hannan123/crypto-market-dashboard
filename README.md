@@ -45,4 +45,11 @@ This project was created to practice:
 - Add currency selection
 - Improve mobile responsiveness
 
-  
+ ## 👨‍💻 Author
+
+Your Name
+Frontend Developer | BSCS Student
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub.
