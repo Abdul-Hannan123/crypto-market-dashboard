@@ -23,12 +23,26 @@ The project uses a cryptocurrency API to fetch and display current market prices
 - JavaScript
 - Cryptocurrency API
 
-## 📂 Project Structure
+## 🎯 Purpose
 
-```text
-crypto-market-dashboard/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
+This project was created to practice:
+
+- Working with APIs
+- Fetching external data using JavaScript
+- Handling JSON responses
+- DOM manipulation
+- Responsive web design
+- Building a modern frontend interface
+
+## 🌱 Future Improvements
+
+- Add more cryptocurrencies
+- Add live price charts
+- Add percentage price changes
+- Add search functionality
+- Add cryptocurrency market rankings
+- Add dark/light mode
+- Add currency selection
+- Improve mobile responsiveness
+
+  
