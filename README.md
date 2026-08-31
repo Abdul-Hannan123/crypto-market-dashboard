@@ -50,4 +50,6 @@ This project was created to practice:
 Your Name
 Frontend Developer | BSCS Student
 
+## ⭐ Support
 
+If you like this project, consider giving it a ⭐ on GitHub.
